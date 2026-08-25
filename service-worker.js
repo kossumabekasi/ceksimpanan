@@ -1,4 +1,4 @@
-const CACHE_NAME = "kossuma-cek-simpanan-v1";
+const CACHE_NAME = "kossuma-cek-simpanan-v2";
 
 const FILES_TO_CACHE = [
   "./",
